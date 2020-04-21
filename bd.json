@@ -1,12 +1,12 @@
 {
     "registro":[
     {
-      "id":"1",
+      "id":1,
       "nombre":"mateo",
       "apellido":"balza"  
     },
         {
-      "id":"2",
+      "id":2,
       "nombre":"hugo",
       "apellido":"ramos" 
     }
